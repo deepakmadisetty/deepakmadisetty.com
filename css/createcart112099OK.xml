@@ -1,0 +1,148 @@
+<cartSession>
+<cartSessionSettings>
+<operationType>openRelease</operationType>
+<lazyLoading>yes</lazyLoading>
+<cartId>112099</cartId>
+<cartRelease>1</cartRelease>
+<modelName>CPQModel_SFDC_2010</modelName>
+<modelRelease>1</modelRelease>
+<theme>cameleonDesktopPlanar</theme>
+<layout>cpqUI_Planar_NewTheme</layout>
+<errorPage>https://planar--cameleoncpq.na3.visual.force.com/apex/cameleoncpq__cpqerrorpage?id=a0G5000000DCovZEAT&amp;msgType=2&amp;errMsg=</errorPage>
+<language>US</language>
+<currency>USD</currency>
+<cartDomainId>-</cartDomainId>
+<userGroup>System Administrator</userGroup>
+<userId>005500000013Z9eAAE</userId>
+<userName>Jennifer Gross</userName>
+<ownerGroup>C. Standard User</ownerGroup>
+<ownerId>00550000005jIjjAAE</ownerId>
+<ownerName>Sue Bale</ownerName>
+<licenseType>Named</licenseType>
+<userOrigin>Internal</userOrigin>
+</cartSessionSettings>
+<customSettings>
+<setting id="SFDC_LOGIN_METHOD" value="SESSION_ID">SESSION_ID</setting>
+<setting id="SFDC_SESSIONID" value="00D300000000Ymn!ARYAQMXXHtfMwgpe9N9uTJmSKj9U.JBd3hVK.qrfZigebQh.FhHt1G33fIkIHDR.CCz2mcMRIRbwxyzrjGn7o6MrquSigK.v">00D300000000Ymn!ARYAQMXXHtfMwgpe9N9uTJmSKj9U.JBd3hVK.qrfZigebQh.FhHt1G33fIkIHDR.CCz2mcMRIRbwxyzrjGn7o6MrquSigK.v</setting>
+<setting id="SFDC_APISOAPURL" value="https://planar--cameleoncpq.na3.visual.force.com/services/Soap/c/29/">https://planar--cameleoncpq.na3.visual.force.com/services/Soap/c/29/</setting>
+<setting id="SFDC_APEXSOAPURL" value="https://planar--cameleoncpq.na3.visual.force.com/services/Soap/class/CameleonCPQ/">https://planar--cameleoncpq.na3.visual.force.com/services/Soap/class/CameleonCPQ/</setting>
+<setting id="SFDC_RETURNURL" value="https://planar--cameleoncpq.na3.visual.force.com/a0G5000000DCovZEAT">https://planar--cameleoncpq.na3.visual.force.com/a0G5000000DCovZEAT</setting>
+<setting id="SFDC_ERRORURL" value="https://planar--cameleoncpq.na3.visual.force.com/apex/cameleoncpq__cpqerrorpage?id=a0G5000000DCovZEAT&amp;msgType=2&amp;errMsg=">https://planar--cameleoncpq.na3.visual.force.com/apex/cameleoncpq__cpqerrorpage?id=a0G5000000DCovZEAT&amp;msgType=2&amp;errMsg=</setting>
+<setting id="SFDC_ENTITYTYPE" value="Quote__c">Quote__c</setting>
+<setting id="SFDC_ENTITYID" value="a0G5000000DCovZEAT">a0G5000000DCovZEAT</setting>
+<setting id="SFDC_ENTITYNAME" value="Luke AFB – 56 Communications Squad MSRP - (2) 3x3 LX46HDU-L">Luke AFB – 56 Communications Squad MSRP - (2) 3x3 LX46HDU-L</setting>
+<setting id="SFDC.Title" value="Account Manager">Account Manager</setting>
+<setting id="SFDC.email" value="sue.bale@planar.com">sue.bale@planar.com</setting>
+<setting id="SFDC.Phone" value=""></setting>
+<setting id="Id" value="a0G5000000DCovZEAT">a0G5000000DCovZEAT</setting>
+<setting id="OwnerId" value="00550000005jIjjAAE">00550000005jIjjAAE</setting>
+<setting id="IsDeleted" value="0">0</setting>
+<setting id="Name" value="Shisha Cafe&quot; (8x LCD Video walls MX55HDX, 56 x SL5551)">Shisha Cafe" (8x LCD Video walls MX55HDX, 56 x SL5551)</setting>
+<setting id="CurrencyIsoCode" value="USD">USD</setting>
+<setting id="RecordTypeId" value="01250000000E641AAC">01250000000E641AAC</setting>
+<setting id="CreatedDate" value="20160919 115239">20160919 115239</setting>
+<setting id="CreatedById" value="00550000002k3J0AAI">00550000002k3J0AAI</setting>
+<setting id="LastModifiedDate" value="20160919 123508">20160919 123508</setting>
+<setting id="LastModifiedById" value="005500000013Z9eAAE">005500000013Z9eAAE</setting>
+<setting id="SystemModstamp" value="20160919 123508">20160919 123508</setting>
+<setting id="LastViewedDate" value="20160919 172536">20160919 172536</setting>
+<setting id="LastReferencedDate" value="20160919 172536">20160919 172536</setting>
+<setting id="AccountId" value="0015000000GpmHNAAZ">0015000000GpmHNAAZ</setting>
+<setting id="ActiveRelease" value="1">1</setting>
+<setting id="BillingCity" value="Luke AFB">Luke AFB</setting>
+<setting id="BillingCountry" value="United States">United States</setting>
+<setting id="BillingName" value="Aarons">Aarons</setting>
+<setting id="BillingPostalCode" value="85309-1526">85309-1526</setting>
+<setting id="BillingState" value="AZ">AZ</setting>
+<setting id="BillingStreet" value="56th Medical Group
+7219 North Litchfield Road">56th Medical Group
+7219 North Litchfield Road</setting>
+<setting id="CameleonTouch" value="&lt;a href=&quot;camTouch://?az=00D300000000Ymn.a0G5000000DCovZ_1&amp;amp;ev=00D300000000Ymn!ARYAQP.cU.3oCjmRO5UMVxrPhQP8AcG.DkUT.befF4_vlClmKFZqN5GzTstuGwtKoUbwBL0sMNgATXnoS63C_EuR5BcJEvUb&amp;amp;url=https://planar--cameleoncpq.na3.visual.force.com/services/Soap/c/28.0/00D300000000Ymn&amp;amp;cameleonUrl=https://pr000201.mycameleon.com&quot; target=&quot;_blank&quot;&gt;PROS Smart CPQ Touch&lt;/a&gt;">&lt;a href="camTouch://?az=00D300000000Ymn.a0G5000000DCovZ_1&amp;amp;ev=00D300000000Ymn!ARYAQP.cU.3oCjmRO5UMVxrPhQP8AcG.DkUT.befF4_vlClmKFZqN5GzTstuGwtKoUbwBL0sMNgATXnoS63C_EuR5BcJEvUb&amp;amp;url=https://planar--cameleoncpq.na3.visual.force.com/services/Soap/c/28.0/00D300000000Ymn&amp;amp;cameleonUrl=https://pr000201.mycameleon.com" target="_blank"&gt;PROS Smart CPQ Touch&lt;/a&gt;</setting>
+<setting id="Expires" value="20161019 000000">20161019 000000</setting>
+<setting id="PrimaryContactId" value="0035000002kKfTnAAK">0035000002kKfTnAAK</setting>
+<setting id="ShippingCity" value="Luke AFB">Luke AFB</setting>
+<setting id="ShippingCountry" value="United States">United States</setting>
+<setting id="ShippingName" value="Aarons">Aarons</setting>
+<setting id="ShippingPostalCode" value="85309-1526">85309-1526</setting>
+<setting id="ShippingState" value="AZ">AZ</setting>
+<setting id="ShippingStreet" value="56th Medical Group
+7219 North Litchfield Road">56th Medical Group
+7219 North Litchfield Road</setting>
+<setting id="Status" value="Not Required">Not Required</setting>
+<setting id="Approved" value="0">0</setting>
+<setting id="Approved_by_Manager" value="0">0</setting>
+<setting id="Auto_Quote_Number" value="00061737">00061737</setting>
+<setting id="CP_Line_Count_LCD" value="34">34</setting>
+<setting id="CP_Line_Count_Legacy" value="0">0</setting>
+<setting id="CP_Line_Count_Replacement_Parts" value="0">0</setting>
+<setting id="Close_Date" value="20170319 000000">20170319 000000</setting>
+<setting id="Discount" value="0.25">0.25</setting>
+<setting id="Email" value="bruce.aarons@us.af.mil">bruce.aarons@us.af.mil</setting>
+<setting id="GrandTotal" value="63638">63638</setting>
+<setting id="Gross_Discount_LCD" value="0.25">0.25</setting>
+<setting id="Gross_Discount_Legacy" value="0.0">0.0</setting>
+<setting id="Gross_Discount_Replacement_Parts" value="0.0">0.0</setting>
+<setting id="MSRP_Total_LCD" value="84850.00">84850.00</setting>
+<setting id="MSRP_Total_Legacy" value="0.00">0.00</setting>
+<setting id="MSRP_Total_Replacement_Parts" value="0.00">0.00</setting>
+<setting id="Opportunity_Owner" value="Sue Bale">Sue Bale</setting>
+<setting id="Opportunity_Probability" value="0.05">0.05</setting>
+<setting id="Opportunity_Stage" value="02-Scoping">02-Scoping</setting>
+<setting id="Opportunity" value="0065000000dUROJAA4">0065000000dUROJAA4</setting>
+<setting id="Phone" value="(623) 856-3560">(623) 856-3560</setting>
+<setting id="Quote_Number" value="00061737">00061737</setting>
+<setting id="Sync_to_Opportunity" value="1">1</setting>
+<setting id="TCTotMSRP" value="84850.00">84850.00</setting>
+<setting id="Territory" value="Southwest">Southwest</setting>
+<setting id="Total_Discount" value="21212.00">21212.00</setting>
+<setting id="Total_Price_LCD" value="63638.00">63638.00</setting>
+<setting id="Total_Price_Legacy" value="0.00">0.00</setting>
+<setting id="Total_Price_Replacement_Parts" value="0.00">0.00</setting>
+<setting id="Cameleon_Read_Only_Quote" value="a0K5000000RSLmlEAH">a0K5000000RSLmlEAH</setting>
+<setting id="Additional_Discount_LCD" value="0.0">0.0</setting>
+<setting id="Additional_Discount_Legacy" value="0.0">0.0</setting>
+<setting id="Additional_Discount_LeyLED" value="0.0">0.0</setting>
+<setting id="Additional_Discount_Replacement_Parts" value="0.0">0.0</setting>
+<setting id="Gross_Discount_LeyLED" value="0.0">0.0</setting>
+<setting id="MSRP_Total_LeyLED" value="0.00">0.00</setting>
+<setting id="Total_Price_LeyLED" value="0.00">0.00</setting>
+<setting id="BeingSynchronized" value="0">0</setting>
+<setting id="CameleonTouchParam" value="?az=00D300000000Ymn.a0G5000000DCovZ_1&amp;ev=00D300000000Ymn!ARYAQP.cU.3oCjmRO5UMVxrPhQP8AcG.DkUT.befF4_vlClmKFZqN5GzTstuGwtKoUbwBL0sMNgATXnoS63C_EuR5BcJEvUb&amp;url=https://planar--cameleoncpq.na3.visual.force.com/services/Soap/c/28.0/00D300000000Ymn&amp;cameleonUrl=https://pr000201.mycameleon.com">?az=00D300000000Ymn.a0G5000000DCovZ_1&amp;ev=00D300000000Ymn!ARYAQP.cU.3oCjmRO5UMVxrPhQP8AcG.DkUT.befF4_vlClmKFZqN5GzTstuGwtKoUbwBL0sMNgATXnoS63C_EuR5BcJEvUb&amp;url=https://planar--cameleoncpq.na3.visual.force.com/services/Soap/c/28.0/00D300000000Ymn&amp;cameleonUrl=https://pr000201.mycameleon.com</setting>
+<setting id="CP_Line_Count_LeyLED" value="0">0</setting>
+<setting id="reportFileName" value="Shisha Cafe&quot; (8x LCD Video walls MX55HDX, 56 x SL5551)">Shisha Cafe" (8x LCD Video walls MX55HDX, 56 x SL5551)</setting>
+<setting id="Special_Items_Count" value="0">0</setting>
+<setting id="Company_Type" value="Unknown">Unknown</setting>
+<setting id="Opportunity_Region" value="North America">North America</setting>
+<setting id="AccountId.BillingCity" value="Luke AFB">Luke AFB</setting>
+<setting id="AccountId.BillingCountry" value="United States">United States</setting>
+<setting id="AccountId.BillingPostalCode" value="85309-1526">85309-1526</setting>
+<setting id="AccountId.BillingState" value="AZ">AZ</setting>
+<setting id="AccountId.BillingStreet" value="56th Medical Group
+7219 North Litchfield Road">56th Medical Group
+7219 North Litchfield Road</setting>
+<setting id="AccountId.Name" value="Luke, AZ Air Force Medical Center">Luke, AZ Air Force Medical Center</setting>
+<setting id="AccountId.ParentId" value="0015000000FaK1oAAF">0015000000FaK1oAAF</setting>
+<setting id="AccountId.Website" value="http://www.luke.af.mil/56mdg">http://www.luke.af.mil/56mdg</setting>
+<setting id="AccountId.Lockbox_Address_Line_1" value="DEPT LA 24405">DEPT LA 24405</setting>
+<setting id="AccountId.Lockbox_Address_Line_2" value="Pasadena, CA 91185-4405">Pasadena, CA 91185-4405</setting>
+<setting id="Opportunity.AccountId" value="0015000000GpmHNAAZ">0015000000GpmHNAAZ</setting>
+<setting id="Opportunity.Advanced_Exchange" value="0">0</setting>
+<setting id="Opportunity.Bank" value="Silicon Valley Bank">Silicon Valley Bank</setting>
+<setting id="Opportunity.CurrencyIsoCode" value="USD">USD</setting>
+<setting id="Opportunity.Region" value="North America">North America</setting>
+<setting id="Opportunity.Sales_Office" value="Planar Systems Inc.">Planar Systems Inc.</setting>
+<setting id="Opportunity.StageName" value="02-Scoping">02-Scoping</setting>
+<setting id="Opportunity.CPQ_Company_Name" value="Planar Systems Inc.">Planar Systems Inc.</setting>
+<setting id="Opportunity.CPQ_Order_Address" value="1195 NW Compton Drive&lt;br&gt;Beaverton&lt;br&gt;OR, 97006&lt;br&gt;USA">1195 NW Compton Drive&lt;br&gt;Beaverton&lt;br&gt;OR, 97006&lt;br&gt;USA</setting>
+<setting id="Opportunity.CPQ_Order_Contact" value="&lt;A HREF=&quot;mailto:vw_sales@planar.com&lt;br&gt;Fax&quot;&gt;vw_sales@planar.com&lt;br&gt;Fax&lt;/A&gt;:(503)748-5541">&lt;A HREF="mailto:vw_sales@planar.com&lt;br&gt;Fax"&gt;vw_sales@planar.com&lt;br&gt;Fax&lt;/A&gt;:(503)748-5541</setting>
+<setting id="Opportunity.CPQ_Ship_From_Location" value="Planar Systems Inc.&lt;br&gt;7210, NW Evergreen Pkwy&lt;br&gt;Hillsboro&lt;br&gt;OR 97124&lt;br&gt;USA">Planar Systems Inc.&lt;br&gt;7210, NW Evergreen Pkwy&lt;br&gt;Hillsboro&lt;br&gt;OR 97124&lt;br&gt;USA</setting>
+<setting id="Opportunity.CPQ_Tech_Support" value="Phone: 1-866-PLANAR1 (866-752-6271) / (503) 748-5799&lt;br&gt;Email: &lt;A HREF=&quot;mailto:ts@planar.com&lt;br&gt;RMA&quot;&gt;ts@planar.com&lt;br&gt;RMA&lt;/A&gt; Follow-up:&lt;A HREF=&quot;mailto:ts@planar.com&lt;br&gt;Parts&quot;&gt;ts@planar.com&lt;br&gt;Parts&lt;/A&gt; Orders: &lt;A HREF=&quot;mailto:ServiceOrders@planar.com&quot;&gt;ServiceOrders@planar.com&lt;/A&gt;">Phone: 1-866-PLANAR1 (866-752-6271) / (503) 748-5799&lt;br&gt;Email: &lt;A HREF="mailto:ts@planar.com&lt;br&gt;RMA"&gt;ts@planar.com&lt;br&gt;RMA&lt;/A&gt; Follow-up:&lt;A HREF="mailto:ts@planar.com&lt;br&gt;Parts"&gt;ts@planar.com&lt;br&gt;Parts&lt;/A&gt; Orders: &lt;A HREF="mailto:ServiceOrders@planar.com"&gt;ServiceOrders@planar.com&lt;/A&gt;</setting>
+<setting id="PrimaryContactId.Name" value="Bruce Aarons">Bruce Aarons</setting>
+</customSettings>
+<cartData>
+<dynamicValues overwrite="yes">
+<defaultValue id="ParameterTab.QuoteDescription" value="Shisha Cafe&quot; (8x LCD Video walls MX55HDX, 56 x SL5551)"/>
+<defaultValue id="ChangeAndControlTab.CurrentStatus" value="Not Required"/>
+</dynamicValues>
+</cartData>
+</cartSession>

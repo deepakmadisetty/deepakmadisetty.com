@@ -1,0 +1,146 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+}
+.navbar-brand {
+    font-size: 1.5em;
+}
+.contentContainer {
+    width: 100%;
+    min-height: 500px;
+}
+.topRow {
+    text-align: center;
+}
+#topRow h1 {
+    font-size: 300%;
+}
+#aboutMe {
+    padding-top: 100px;
+    min-height: 400px;
+    width: 100%;
+    background: #222222;
+}
+.marginTop {
+    margin-top: 30px;
+}
+.marginBottom {
+    margin-bottom: 30px;
+}
+.center {
+    text-align: center;
+}
+.title {
+    margin-top: 50px;
+    text-align: center;
+}
+#footer {
+    min-height: 400px;
+    width: 100%;
+    background-color: #222222;
+    padding: 80px 100px 80px 100px;
+    color: #B0B0B0;
+    font-size: 0.95em;
+}
+#avatar {
+    margin-right: 10px;
+    float: left;
+    border: 2px solid black;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+a:hover {
+    color: dodgerblue;
+    text-decoration: none;
+}
+i {
+    color: white;
+}
+i:hover {
+    color: dodgerblue;
+}
+dt {
+    font-size: 1.1em;
+}
+.footerMenu dd {
+    padding-bottom: 8px;
+}
+h2 {
+    color: ;
+}
+.paddingBottom {
+    padding-bottom: 10px;
+}
+.paddingBottom20 {
+    padding-bottom: 20px;
+}
+.marginTop {
+    margin-top: 30px;
+}
+.marginBottom {
+    margin-bottom: 30px;
+}
+.footerSections {
+    padding: 0 30px 0 30px;
+}
+.footerSocialLinks ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#portfolio div div  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.layout {
+    padding: 0;
+    height: 280px;
+    border: 1px solid black;
+}
+
+.layout img {
+        height:100%;
+        width:100%;
+}
+
+@media (min-width: 640px) {
+    .desktop-only {
+        display: block;
+    }
+    .footerSocialLinks div a {
+        float: left;
+    }
+    footerSocialLinks div p {
+        padding-bottom: 10px;
+    }
+}
+@media (max-width: 640px) {
+    .desktop-only {
+        display: none;
+    }
+    #footer {
+        padding: 40px 35px 40px 35px;
+    }
+    .footerSections {
+        padding: 10px;
+    }
+    .footerMenu dt {
+        text-align: center;
+        padding: 5px 0 5px 0;
+    }
+    .footerSocialLinks {
+        text-align: center;
+        white-space: no-wrap;
+    }
+    .footerSocialLinks div {
+        display: inline-block;
+        text-align: center;
+    }
+    .footerSocialLinks div a {
+        float: none;
+    }
+}
