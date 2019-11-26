@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', Helvetica;
     position: relative;
 }
 .navbar-brand {
@@ -67,9 +67,6 @@ dt {
 }
 .footerMenu dd {
     padding-bottom: 8px;
-}
-h2 {
-    color: ;
 }
 .paddingBottom {
     padding-bottom: 10px;
